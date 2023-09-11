@@ -41,13 +41,13 @@ Among the different classes, each class will have its own unique abilities and a
 
 Below are some examples of classes that have been considered so far, which can be easily switched during gameplay.
 
-**Long-range class:** Capable of fighting from a distance and highly agile, but vulnerable in close combat and heavily damaged by direct hits.
+- **Long-range class:** Capable of fighting from a distance and highly agile, but vulnerable in close combat and heavily damaged by direct hits.
 
-**Heavy class:** Short-range combat, with blows that reduce the opponent's mobility for milliseconds, allowing for better strikes. The defensive level of this class is above average.
+- **Heavy class:** Short-range combat, with blows that reduce the opponent's mobility for milliseconds, allowing for better strikes. The defensive level of this class is above average.
 
-**Agile class:** Extremely fast movements, capable of delivering multiple blows in a short amount of time, but with reduced damage and higher vulnerability than average.
+- **Agile class:** Extremely fast movements, capable of delivering multiple blows in a short amount of time, but with reduced damage and higher vulnerability than average.
 
-**Debuff class:** Expert in weakening enemy abilities with their weapon strikes. A class with medium range and standard mobility.
+- **Debuff class:** Expert in weakening enemy abilities with their weapon strikes. A class with medium range and standard mobility.
 
 
 **More classes will be developed later.**

@@ -2,7 +2,7 @@
 
 ## A 3D Fighting game based on Weapons Mutation
 
-### LORE
+### STORY
 
 In a fantasy world, Earth is in a continuous state of war after the arrival of a UFO in the form of a Crystal that, upon collision with the atmosphere, shattered and split into many fragments that impacted various locations. These fragments would later be known as **Devion Crystals**, in honor of the scientist who dedicated his life to researching their extraordinary properties.
 
